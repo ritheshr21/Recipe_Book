@@ -9,6 +9,7 @@ Stores the Ingredients and Instructions of a Recipe.
       </tr>
       <tr>
         <td><img src = "three.png"></td>
+        <td><img src = "dance.gif"></td>
       </tr>
     </table>
   </body>
