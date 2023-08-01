@@ -2,7 +2,7 @@
 Stores the Ingredients and Instructions of a Recipe.
 <html>
   <body>
-    <table width="80%">
+    <table width="80%" style="border: none; backgrounf-color:#161b22;">
       <tr>
         <td><img src = "one.png"></td>
         <td><img src = "two.png"></td>
