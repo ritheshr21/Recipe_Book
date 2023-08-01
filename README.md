@@ -2,8 +2,12 @@
 Stores the Ingredients and Instructions of a Recipe.
 <html>
   <body>
-    <img src = "one.png">
-    <img src = "two.png">
-    <img src = "three.png">
+    <table>
+      <tr>
+        <td><img src = "one.png"></td>
+        <td><img src = "two.png"></td>
+        <td><img src = "three.png"></td>
+      </tr>
+    </table>
   </body>
 </html>
